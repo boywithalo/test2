@@ -9,8 +9,11 @@ A very simple game that consists of pokemons.
 
 ## Commands
 /go Starts
+
 /fight, /attack Attack **(Works while replying)**
+
 /info Information
+
 /feed Feeds your pokemon and increases health *works every 20seconds*
 
 ## /start command
